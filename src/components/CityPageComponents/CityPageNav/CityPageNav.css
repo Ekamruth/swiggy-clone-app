@@ -1,0 +1,100 @@
+.city_nav{
+  display: flex;
+  border-bottom: 1px solid lightgray ;
+  margin: 0 auto;
+  align-items: center;
+  height: 5rem;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  padding: 0 10rem;
+  background-color: white;
+  z-index: 1;
+}
+
+.city_nav>a{
+  text-decoration: none;
+  color: black;
+}
+
+.city_nav_1{
+  display: flex;
+  border-right: 0.5px solid lightgray;
+}
+
+.txt_1{
+  font-size: 1.75rem;
+  font-weight: 600;
+  padding-left: 10px;
+  padding-right: 15px;
+}
+
+.logo_1>img{
+  width: 1.6rem;
+}
+
+.city_nav_2{
+  padding: 0 1.5rem;
+  display: flex;
+  align-items: center;
+}
+
+.location_icon{
+  color: #fc8019;
+  font-size: 1.25rem;
+  padding-top: 8px;
+  padding-right: 5px;
+}
+
+.txt_2{
+  font-size: 19px;
+  font-weight: 600;
+  color: rgba(2, 6, 12, 0.75);
+}
+
+.dropdown_icon{
+  color: #fc8019;
+  font-size: 1.3rem;
+  padding-top: 8px;
+}
+
+.city_nav_3{
+  border: 1px solid transparent;
+  margin-left: 10rem;
+  border-radius: 12px;
+  display: flex;
+  background-color: rgb(235, 235, 240);
+  padding: 6px 1rem;
+  align-items: center;
+}
+
+.input_nav_3{
+  border: none;
+  background-color: inherit;
+  font-size: 15px;
+  max-width: 500px;
+  min-width: 400px;
+}
+
+input[type=text]:focus{
+  outline: none!important;
+}
+
+.btn_3{
+  border: none;
+  background-color: inherit;
+  color: grey;
+  font-size: 1.5rem;
+  padding: 0;
+  padding-top: 4px;
+}
+.btn_3:hover{
+  cursor: pointer;
+}
+
+.user_icon{
+  margin-left: 2rem;
+  font-size: 3.75rem;
+  padding-top: 1rem;
+  color: rgb(73, 72, 72);
+}

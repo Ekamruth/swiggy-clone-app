@@ -1,0 +1,27 @@
+.modal{
+  position: fixed;
+  top: 0;
+  left: auto;
+  right: 0;
+  transform: translate(0%, 0px);
+  background-color: white;
+  height: 100%;
+  transition: transform 0.3s ease-out;
+  z-index: 1000;
+  width: 480px;
+  padding: 30px 40px;
+}
+
+.overlay{
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgb(40, 44, 63,0.7);
+  z-index: 1000;
+}
+
+.modal_close_btn:hover{
+  cursor: pointer;
+}

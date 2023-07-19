@@ -1,0 +1,51 @@
+.city_header{
+  margin-top: 5rem;
+  
+}
+
+.city_banner{
+  width: 100%;
+  height: 300px;
+  background: linear-gradient(0deg, rgba(201, 188, 244, 1) 0%, rgba(255, 255, 255, 1) 100%);
+  border-bottom-left-radius: 1.5rem;
+  border-bottom-right-radius: 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.city_banner_left{
+  font-size: 3.5rem;
+  font-weight: 600;
+  width: 18rem;
+  padding: 0 10rem;
+  color: rgba(2, 6, 12, 0.75);
+  line-height: 3rem;
+  padding-bottom: 10px;
+}
+
+.city_banner_right>img{
+  width: 500px;
+  margin-right: 12rem;
+}
+
+.header_choice_scroll{
+  margin: 0 11rem;
+  margin-top: 2rem;
+  padding-bottom: 3rem;
+  border-bottom: 1px solid lightgray;
+}
+
+.choice_heading{
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.choice_items{
+  margin-top: 15px;
+}
+
+.items_imgs>a>img{
+  padding-left: 8px;
+  padding-right: 14px;
+}

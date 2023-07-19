@@ -1,0 +1,15 @@
+.different_options_btn {
+  font-size: 1.05rem;
+  font-weight: 500;
+  padding: 14px 6rem;
+  background-color: white;
+  border: 1px solid lightgrey;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.different_options_btn:hover{
+  cursor: pointer;
+}

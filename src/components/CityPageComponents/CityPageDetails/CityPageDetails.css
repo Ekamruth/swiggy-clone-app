@@ -1,0 +1,58 @@
+.city_details{
+  margin: 3rem 7rem;
+}
+
+.details_culture_heading{
+  font-size: 1.75rem;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+.details_culture_table{
+  border: 1px solid lightgray;
+  border-radius: 8px;
+  padding: 2rem 16px;
+  padding-bottom: 0px;
+}
+
+.culture_table_heading{
+  font-size: 24px;
+  font-weight: 600;
+  color: rgba(2, 6, 12, 0.6);
+}
+
+.culture_table_subheading{
+  font-size: 18px;
+  font-weight: 600;
+  color: rgba(2, 6, 12, 0.6);
+}
+
+.culture_table_question{
+  font-size: 17px;
+  font-weight: 600;
+  margin-top: 8px;
+  color: rgba(2, 6, 12, 0.6);
+}
+
+.details_culture_table>p{
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 6px;
+  margin-bottom: 18px;
+  color: rgba(2, 6, 12, 0.6);
+}
+
+.details_explore_heading{
+  font-size: 1.75rem;
+  font-weight: 600;
+  margin-top: 4rem;
+  margin-bottom: 15px;
+  color: rgba(2, 6, 12, 0.92);
+}
+
+.details_explore_options{
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  column-gap: 2rem;
+  row-gap: 1rem;
+}

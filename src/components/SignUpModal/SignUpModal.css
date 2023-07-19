@@ -1,0 +1,74 @@
+.login_header{
+  display: flex;
+  position: relative;
+  margin-bottom: 3rem;
+}
+
+.login_header_img{
+  position: absolute;
+  top: 0px;
+  right: 110px;
+
+}
+
+.login_head{
+  font-size: 2rem;
+  font-weight: 500;
+  margin-top: 25px;
+}
+
+.login_txt{
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+.login_txt>a{
+  text-decoration: none;
+  color: #fc8019;
+  font-weight: 600;
+}
+
+.signup_form{
+  margin-top: 3rem;
+}
+
+.signup_input{
+  margin-top: 0;
+  border: 1px solid #d4d5d9;
+  padding: 16px 1rem;
+  max-width: 340px;
+  border-bottom: none;
+}
+
+.signup_input_email{
+  margin-top: 0;
+  border: 1px solid #d4d5d9;
+  padding: 16px 1rem;
+  max-width: 340px;
+}
+
+.signup_input_referral{
+  margin-top: 0;
+  border: 1px solid #d4d5d9;
+  padding: 16px 1rem;
+  max-width: 340px;
+  border-top: none;
+}
+
+input[type=email]:focus{
+  outline: none !important;
+}
+
+.referral_link{
+  margin-top: 2rem;
+  border: none;
+  background-color: white;
+  font-size: 1rem;
+  font-weight: 600;
+  color:#5d8ed5;
+  padding: 0;
+}
+
+.referral_link:hover{
+  cursor: pointer;
+}

@@ -1,0 +1,20 @@
+.show_more_btn{
+  font-size: 1.05rem;
+  font-weight: 600;
+  padding: 8px 6.5rem;
+  background-color: white;
+  color: rgba(2, 6, 12, 0.75);
+  border: 1px solid lightgrey;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;  
+}
+
+.show_more_btn:hover{
+  cursor: pointer;
+}
+
+.arrow_icon{
+  font-size: 1.25rem;
+  padding-top: 8px;
+}

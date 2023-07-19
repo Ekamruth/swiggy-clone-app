@@ -1,0 +1,50 @@
+.banner2{
+  position: relative;
+  max-width: 1200px;
+  min-width: 1200px;
+  margin: 0 auto;
+  height: 570px;
+}
+
+.promotion{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+}
+
+.promotion_heading{
+  font-size: 2.6rem;
+  font-weight: 600;
+  width: 300px;
+
+}
+
+.promotion_txt{
+  font-size: 20px;
+  width: 400px;
+  font-weight: 400;
+  color: #7e808c;
+  padding-top: 20px;
+  padding-bottom: 60px;
+}
+
+.promotion_btns>a{
+  cursor: pointer;
+}
+
+.promotion_btn1{
+  margin-right: 20px;
+}
+
+.promotion_img1{
+  position: absolute;
+  top: 0;
+  right: 300px;
+}
+
+.promotion_img2{
+  position: absolute;
+  bottom: 0;
+  right: -45px;
+}
