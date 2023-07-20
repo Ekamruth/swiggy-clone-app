@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/swiggy-clone-app/static/css/main.e232ff1b.css",
+    "main.js": "/swiggy-clone-app/static/js/main.3136ecac.js",
+    "static/js/787.4c477bf7.chunk.js": "/swiggy-clone-app/static/js/787.4c477bf7.chunk.js",
+    "static/media/swiggy_icon.png": "/swiggy-clone-app/static/media/swiggy_icon.9ae2e35ec9f1c8a8c4e7.png",
+    "index.html": "/swiggy-clone-app/index.html",
+    "main.e232ff1b.css.map": "/swiggy-clone-app/static/css/main.e232ff1b.css.map",
+    "main.3136ecac.js.map": "/swiggy-clone-app/static/js/main.3136ecac.js.map",
+    "787.4c477bf7.chunk.js.map": "/swiggy-clone-app/static/js/787.4c477bf7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e232ff1b.css",
+    "static/js/main.3136ecac.js"
+  ]
+}
